@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195559490858",
+    "firebase_url": "https://michi-extremo.firebaseio.com",
+    "project_id": "michi-extremo",
+    "storage_bucket": "michi-extremo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195559490858:android:4f9f258a927594c8",
+        "android_client_info": {
+          "package_name": "com.proyect.michi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195559490858-57iecbm9f9g05nseut3vio7op7jla7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2D4gkQ9HDiIGfd6JguUsJ7cJbVmicrOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
